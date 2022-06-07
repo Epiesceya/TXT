@@ -1,0 +1,6 @@
+Terminal
+Git
+SQL
+Charles
+Postman
+DevTools
